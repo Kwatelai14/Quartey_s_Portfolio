@@ -2,7 +2,7 @@
 ## EDA WITH PYTHON
 
 # Table of Content
-- [Code blocks](#code blocks)
+- [Code blocks](#code_blocks)
 
 - 
 # CODE blocks
