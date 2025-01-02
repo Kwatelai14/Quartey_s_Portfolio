@@ -8,7 +8,7 @@
 ```python
     import pandas as pd
 ```
-![image-one](images)
+![image-one](assets/images/Screenshot_20241004-163815_YouTube.png)
 
 
 
