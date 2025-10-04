@@ -9,7 +9,6 @@
     import pandas as pd
     from matplotlib.pyplot import plt
 ```
-![image-one](assets/images/Screenshot_20241004-163815_YouTube.png)
 ![image-two](assets/images/malaria1.png)
 
 ## thank you
