@@ -9,7 +9,7 @@
     import pandas as pd
     from matplotlib.pyplot import plt
 ```
-![image-one](assets/images/malaria2)
+![image-one](assets/images/screenshot)
 ![image-two](assets/images/malaria1)
 
 ## thank you
