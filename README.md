@@ -10,6 +10,7 @@
     from matplotlib.pyplot import plt
 ```
 ![image-one](assets/images/malaria2)
+![](assets/images/malaria1)
 
 ## thank you
 
