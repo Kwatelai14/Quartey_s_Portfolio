@@ -3,7 +3,8 @@
 
 # Table of Content
 - [Code blocks](#code_blocks)
-
+- [Data](#data)
+  
 ## In analyzing malaria data across counties, I explored how prevention and spending interact:
 The variables of interest were county (Counties in Kenya), slept under a bed net (%), had fever (%)(suspected malaria) and spending per person (Ksh - Kenyan Shillings)
 Counties with higher fever rates often had higher reported bed net use. This may seem counterintuitive - but likely reflects that bed nets are distributed most aggressively in malaria hotspots. 
@@ -15,15 +16,10 @@ Data like this shows malaria control isn’t just about distributing nets – it
 Would love to hear from public health professionals: How can we use these insights to ensure prevention spending matches malaria burden?
 #DataScience #Epidemiology #Malaria #Python #PublicHealth
 
-
 # code_blocks
-```python
-    import pandas as pd
-    from matplotlib.pyplot import plt
-    import seaborn as sns
-```
 ![image-two](assets/images/malaria1.png)
 
+# data
 ![image-two](assets/images/malaria2.png)
 
 ![image-two](assets/images/malaria3.png)
