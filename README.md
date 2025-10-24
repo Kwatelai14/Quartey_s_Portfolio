@@ -8,6 +8,7 @@
 ```python
     import pandas as pd
     from matplotlib.pyplot import plt
+    import seaborn as sns
 ```
 ![image-two](assets/images/malaria1.png)
 
