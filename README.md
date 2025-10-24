@@ -4,6 +4,7 @@
 # Table of Content
 - [Code blocks](#code_blocks)
 - [Data](#data)
+- [Renaming Column Headers/ Field Names](#Rename_Column_Headers/Field_Names)
   
 ## In analyzing malaria data across counties, I explored how prevention and spending interact:
 The variables of interest were county (Counties in Kenya), slept under a bed net (%), had fever (%)(suspected malaria) and spending per person (Ksh - Kenyan Shillings)
@@ -22,6 +23,7 @@ Would love to hear from public health professionals: How can we use these insigh
 # data
 ![image-two](assets/images/malaria2.png)
 
+# Rename_Column_Headers/Field_Names
 ![image-two](assets/images/malaria3.png)
 
 ![image-two](assets/images/malaria4.png)
