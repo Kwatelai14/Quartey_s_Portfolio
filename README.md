@@ -7,8 +7,8 @@
 - [Renaming Column Headers/ Field Names](#Rename_Column_Headers/Field_Names)
   
 ## In analyzing malaria data across counties, I explored how prevention and spending interact:
-The variables of interest were county (Counties in Kenya), slept under a bed net (%), had fever (%)(suspected malaria) and spending per person (Ksh - Kenyan Shillings)
-Counties with higher fever rates often had higher reported bed net use. This may seem counterintuitive - but likely reflects that bed nets are distributed most aggressively in malaria hotspots. 
+The variables of interest were county (Counties in Kenya), slept under a bed net (%), had fever (%)(suspected malaria) and spending per person (Ksh - Kenyan Shillings).
+Counties with higher fever rates often had higher reported bed net use. This may seem counterintuitive - but likely reflects that bed nets are distributed most aggressively in malaria hotspots. So what may be accounting for the higher fever rate?
 
 Spending per person was uneven across counties. Interestingly, in counties with higher health spending, fever prevalence tended to be lower, suggesting an equity gap.
 Some counties show high bed net coverage but still high fever rates – pointing to possible issues like net misuse, insecticide resistance, or gaps in other interventions
